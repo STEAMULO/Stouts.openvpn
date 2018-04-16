@@ -133,3 +133,9 @@ Licensed under the MIT License. See the LICENSE file for details.
 #### Feedback, bug-reports, requests, ...
 
 Are [welcome](https://github.com/Stouts/Stouts.openvpn/issues)!
+
+## Author Information
+
+Steamulo - www.steamulo.com
+
+Forked from [Stouts](https://github.com/Stouts)
